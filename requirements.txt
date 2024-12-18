@@ -1,0 +1,13 @@
+spacy
+numpy
+pandas
+sentence-transformers
+streamlit
+faiss-cpu
+nltk
+matplotlib
+rapidfuzz
+openai
+langchain
+python-dotenv
+langchain-community
